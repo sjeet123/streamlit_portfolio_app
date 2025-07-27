@@ -5,7 +5,8 @@ body {
 
 /* SIDEBAR */
 section[data-testid="stSidebar"] {
-    background-color: #000000;
+    background-color: #00000066;
+    color:#ff5656;
 }
 .sidebar .css-1v3fvcr {
     color: #040000;
@@ -93,6 +94,6 @@ section[data-testid="stSidebar"] {
 /* SKILLS */
 .skills li {
     padding: 0.5rem 0;
-    color: #ffffff;
+    color: #faf7f7;
     font-size: 1.1rem;
 }
